@@ -1,11 +1,10 @@
 import React from 'react'
-
-const Home = () => {
+import FAQ from './pages/Footer'
+const Footer = () => {
   return (
-    <div>
-      
-    </div>
+  
+    <FAQ/>
   )
 }
 
-export default Home
+export default Footer
